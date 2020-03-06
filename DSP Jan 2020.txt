@@ -1,0 +1,765 @@
+LMS
+---
+	- LMS related issues : 
+			help@analytixlabs.co.in
+		cc : councellors
+	- correspondance
+			info@analytixlabs.co.in
+
+	- software related issues
+			help@analytixlabs.co.in
+
+	- Doubts, course work assistance, missing materials
+		new material reqests, topic requests
+			training@analytixlabs.co.in	
+	- Case Study Solution submisstions : 
+			Dropbox link that will be provided 
+
+Course Flow : 
+
+Foundation to Python and Data Manipulations
+8 classes : 
+	- Python fundamentals
+	- data packages - Descriptive Stats
+		- pandas
+		- numpy
+		- stats models
+	- visualization
+
+Statistics Foundation
+2-3 classes
+	- Inferential Stats
+	
+
+Business Problems and Stats Solutions + Regression
+3 - 4
+
+Classification
+2 - 3
+
+Segmentation
+1 - 2
+
+Time Series
+2
+
+Machine Learning
+5 - 7
+
+Text Mining
+
+-------------------------------------------------------------
+Assessments : 
+	- Assignments
+		- 1 Python 
+		- 10 on pandas and data manipulations
+	- Case Studies
+		- 4 pandas case studies
+		- 2 stats case studies
+	------------------------------
+	- 
+Projects
+-------------------------------------------------------------
+Certification - AnalytixLabs
+--------------
+	- all assignments and CS and Projects are eval
+	   successfully
+-------------------------------------------------------------
+Placements
+--------------
+	- resume building
+	- interviews prep material
+		- theory on python ML
+		- puzzles etc
+		- aptitude on stats
+	- mock interviews
+	- placements	 
+----------------------------------------------------------------
+What is Data Science?
+	- EDA - Exploratory Data Analysis or Descriptive
+		- Playing around with the data 
+		  or Exploration of data 
+		- making sense out of a data
+		- getting useful information out of
+		  a huge pile of data
+		- we focus on the past data
+		- we get insights on the past data
+	- Predicting the future - Predictive Modelling
+		- maths and stats equations used to predict
+		  "something" from the data!
+			-> number
+			-> event
+			-> unknown categories
+			-> forecast
+	- Prescriptive Analytics
+		- based from the results of EDA + Predictive,
+		  we come up with business stratergies
+		- either to prevent a mishap or to sustain 
+		  a good event/value
+	- Story Telling
+		- Visualizations
+		- presentations
+		- reports
+	- Technical Requriements
+		- A statistical tool
+		    SPSS, R, SAS, Stata, Julia, Python,
+		    MS Excel
+		- A data manipulation tool
+		    the stats tool is the DM tool
+		    Any DBMS (optional)			
+		    Big Data tools (optional)
+		- A visualization tool
+		    Tableau, Power BI, MS Excel, SAS VA
+		    the stats tool is the viz tool	
+		- A data handling tool	
+		    big data problems
+		    using an ETL tool (extract, transform and load)
+		    Hadoop, Informatica	   
+--------------------------------------------------------------
+A detailed explanation of the curriculum below : 
+
+ Python
+--------
+	- interpreted programming/scripting language?
+	- it's an Object Oriented Language
+	- easy to learn, underrstand, code.
+
+	- dynamically typed language
+
+		int x = 10;
+		float b = 10.8;
+
+		x = x/9.6 //error!
+		x = "abc" //
+
+		x = 10
+		x = x/10.8
+		x = "abc"
+	- Platform independent
+	- many applications can be built
+	- it can cater to various application areas
+		- web apps
+		- mobile apps
+		- games
+		- desktop utility apps
+		- **AUTOMATION
+		- Database Programming
+		- Middleware
+		- Data Science
+	- Python is modular
+		- provides different user CONTRIBUTED modules/pacakges
+		- they add the additional functionalioty
+	- good integration with other systems
+	- PYTHON IS FREE! FLOSS : Free and Libere Open Source S/W
+		- there is lot of community contribution
+	- All famous/cool things are built in python 
+	
+---------------------------------------------------------------------
+Python in our DSP Course : 
+	- Programming Language Fundamentals
+		- vars
+		- UDF
+		- conditionals
+		- loops
+		- modules
+		- deal with data types and data structures
+		- Object Oriented Programming
+	- Connect with various sources of Data
+		- structured - RDMS, Excel, Text-Delim
+		- semi-structured - XML, JSON
+		- unstructured - text
+	- Metadata Insights
+	- Data Preparation
+	- Data Analysis - past and future
+	- Data Visualizations
+------------------------------------------------------------------
+Data Manipualtions/Munging/Wrangling : 
+	- Preparing a file, ready for analysis
+	- E.g. : Banking : Target is Customer Analysis
+		- Demographic Data : 
+			KYC
+		- Cust Spending data
+			- ATM
+			- POS
+		- Buy third party data
+			- Lifestyle data
+		- Credit CIBIL
+	- Making data error free
+-----------------------------------------------------------------
+Data Analysis
+--------------
+	1. Exploring the past
+	2. Predicting the future
+
+	- Descriptive Analysis
+	- Inferential Statistics
+	- Predictive
+	- Prescriptive Analysis
+	- Congnitive Analytics
+-----------------------------------------------------------------
+Data Visualizations
+-------------------
+	- Static Reports
+	- Dynamic Reports
+	- Graphs
+	- Natural Language Generation
+		Augumented AI
+
+-----------------------------------------------------------------
+Inferential Stats
+-------------------
+	- Sampling
+	- Distributions
+	- Hypothesis Test
+-----------------------------------------------------------------
+Foundation				Advanced
+---------				--------
+programming				Applied Stats
+data connections			ML
+manipulations				Text Mining
+visulalizations
+Stats
+-----------------------------------------------------------------
+Data Science
+	- what is DS
+	- who is a Data Scientist?
+	- How that role is different from Business Analyst?
+
+
+	BA vs DS
+		- Heuristic Approach vs Scientific Approach
+		- Knowledge vs a formula/method/function/algo
+		- Past Incidents wisdom vs Data Driven Approach
+		- Qualitative vs Quamtitiative
+
+	- Data Handling
+							Big Data
+	- Data Connecting
+	- Data Pre-Processing
+							Programming
+	- Scientifc method to solve a business problem
+	- Algos
+	- Applied Statistics
+							ML, AS, IS
+	- Heuristic Approach + Scientific Approach
+							Functional understanding
+								
+
+
+	- Data Scientist
+
+
+
+
+
+
+
+
+
+
+
+
+Anaconda for Python 3
+https://www.anaconda.com/distribution/#windows
+https://repo.anaconda.com/archive/Anaconda3-2019.10-MacOSX-x86_64.pkg
+
+- Python 3.8
+- Front end to work upon - GUI
+	- IDE  :  it has everything! - Spyder
+	- Tool : Jupyter Notebook
+- Packages related to DS - 700+ 
+
+During installation : 
+	- Tick the check box that asks to set PATH automatically
+
+
+Miniconda
+- Python 3.8
+- Front end to work upon - GUI
+	- IDE  :  it has everything! - Spyder
+	- Tool : Jupyter Notebook
+- Packages related to DS - few pacakges only
+
+Canopy 
+------
+- Python 3.8
+- Front end to work upon - GUI
+	- Tool : Jupyter Notebook
+- Packages related to DS - few pacakges only - all imp packages
+
+
+ 
+
+
+
+- Python Language Fundamentals
+- Descriptive Stats
+	- Pandas - data manipulation
+		panel data analysis
+	- Visaulaization
+------------------------------------
+- Inferential Statistics
+---------------------------------------------------------------------
+Requirements for next class : 
+
+- Anaconda or Canopy
+- MS Excel
+
+
+
+
+	 	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------
+Anaconda
+	- Jupyter Notebook
+	- Anaconda Prompt
+	- Anaconda Navigator
+	- Spyder 
+
+
+IDE/GUI
+	- PyCharm
+	- Atom
+	- Eclipse Python
+	- Spyder
+
+Jupyter Notebook
+
+- It's a reporting tool
+- Capable of showing
+	- code + output
+	- stylized text
+	- raw text
+- It works on "cells"
+- Create/Open a notebook
+	- untitled.ipynb
+	- Python code files : .py
+- Cells : exists in three modes
+	- Code Mode			Esc and then Press Y
+		- python codes
+		- codes can be executed
+		- outputs are displayed below the cell
+	- Markdown Mode			Esc and then Press M
+		- markdown codes can be executed
+		- markdown is a way to get stylized text,
+		  multimedia elements
+	- RawNB Convert 		Esc and then Press R
+		- raw text mode
+		- we can write any text and neither that 	
+	          will be compiled nor any text effects will
+		  be shown
+- A cell has 2 states
+
+	- Select (Blue) : Pressing Esc
+	- Edit (Green) : Pressing Enter/Clicking on it etc
+
+
+
+
+
+
+
+
+- Markdown
+	- All the HTML tags can be written and executed
+	- All the text related html tags have set of symbols
+	  for easy access
+		E.g. <strong> Text </strong>
+		       **Text**
+		<h1> Heading H1 </h1>
+		# Heading 1
+		## H2
+		### H3
+---------------------------------------------------------------
+Python
+--------
+What is Python?
+	- generic scripting language
+	- object oriented language
+	- easy to learn, code and use
+	- interpreted
+	- fast processing - in memory processing
+	- portable, system independent
+
+---------------------------------------------------------------
+Python Syntax Rules : 
+-----------------------
+1. Python is case sensitive
+	x = 10
+	X = 10
+
+	my_data = ...
+2. A # is used for comments
+	- no multiline comment support
+	- use # infront of every line that you want as commnet
+	'''
+	 this is comment l1
+         line 2
+	'''	
+3. Naming rules
+	3.1. Names should be alphanumeric
+	3.2. Should never begin with a number
+		my_var
+		_my_var -> hidden/private
+		__name__ -> protected variables
+	3.3. No splecial symbols allowed in the names except
+		_
+	3.4. Keywords must not be used by the user as names
+
+4. Operators
+	4.1 Assignment
+		=
+	4.2 Arithmatic
+		/
+		//	-->   
+		**	-->  power x ** p  ; don't use ^ for power
+		*
+		%	--> modulous		
+		+
+		-
+	4.3 Assignment + Arithmatic
+		x = x + 3 	x += 3
+		s = s * 10
+
+		/=
+		*=
+		+=
+		-=
+		%=
+		//=
+		**=
+ 
+	4.4 Relational/Comparision
+		>
+		>=
+		<
+		<=
+		==
+		!=
+	4.5 Logical
+
+	maths		     base		   Pandas/numpy
+	-------		    -------		 ---------------
+	AND		    and			    &
+	OR		    or			    |
+	NOT		    not			   - or ~
+	
+	x > 10 and x < 50
+
+	and
+		x	y	result
+		0	0	0
+		0	1	0
+		1	0	0
+		1	1	1
+
+	or
+		x	y	result
+		0	0	0
+		0	1	1
+		1	0	1
+		1	1	1
+
+
+	4.6 Others
+		in
+	     not in
+		as -> aliasing
+		.  -> accessing attributes
+-----------------------------------------------------------------
+5. Data types in Python
+=========================
+- talks about the type of the data present in a variable
+	number or text 
+				python 3.x	      pandas
+number				
+    small, w/o decimls		int		int8,int16,int32	
+    large, w/o decimals		int		int64
+    numbers with dec		float		float64
+    numbers with r + i		complex		---
+text
+    single char		
+    string			str		object, category
+    multiline string
+boolean				bool		bool
+--------------------------------
+date and times
+
+1. Python is dynamically typed
+2. type()   -->   returns the data type of an object 	
+3. Order of precedence in datatype conversions
+
+
+	str
+	float
+	int
+	bool
+
+4. Functions that are used to type cast/type conversions
+
+	str()
+	float()
+	int()
+	bool()
+
+	x = 100
+	# convert x to string
+	str(x)
+-----------------------------------------------------------------
+Data Structures
+----------------
+- how the information is stored
+	- one object with one value
+	- one object with multiple values - homgenous			arrays		
+	- one object with multiple values - heterogenous
+	- one object with multiple values
+		in 2 dim  		  - homgenous			matrix
+	- one object with multiple values
+		in 2 dim 		  - heterogenous		table
+
+	- > 2 dim							vectors, lists etc
+
+
+
+
+
+- DS with base python
+	- four data structures
+		- tuple
+		- list
+		- set
+		- dictionary
+
+	- all the four data structures
+		- 1 dimentional
+		- all heterogenous
+
+
+	- create/import
+	- extracting elements
+	- applying conditions
+	- specific functions associated with the DS
+---------------------------------------------------------------
+tuple
+	- create
+		- ()
+	- extracting elements - indexing
+		- indexing in python begins with 0
+		- we shall use [] for indexing
+		- we need to pass index to get the value
+
+	- applying conditions
+	- specific functions associated with the DS
+
+lists
+	- create/import
+		- by using []
+	- extracting elements
+		- this is exactly SAME as tuples
+
+		t1[7] ---> 8th element		
+		l1[7] ---> 8th element
+
+
+
+	insert into emp values (12,'abc',53738,'21Jan2020','BLR')
+
+---------------------------------------------------------------
+- conditionals
+
+	if...then...else	
+	
+	// see if x is pos or neg
+	if(x > 0){
+	    printf("pos");
+	}
+	else{
+	    printf("neg");
+	}
+
+	if(x > 0){
+	    printf("pos");
+	}
+	else{
+	    printf("neg");
+	}
+	printf("we are out of the conditions)
+	
+	if x > 0:
+	    print("pos")
+	    print("yes")
+	else:
+	    print("neg")
+	    print("nope")
+        print("we are out of the conditions)
+
+
+- loops
+---------------------------------------------------------------
+x = -10				x = -10
+if x == 0:			if x == 0:			
+    print("zero")		    print("zero")
+elif x > 0:			else:
+    print("pos")		    if x > 0:
+else:					print("pos")
+    print("neg")		    else:
+					print("neg")
+
+----------------------------------------------------------------
+Loops
+--------
+
+- while loop (condition based loop)
+- for loop (in general, range based loop)
+	- in python - for loop is a loop on 1d DS
+---------------------------------------------------------------
+
+
+- Sytax Rules
+- data types
+- data structures
+	- tuples
+	- list
+	- set
+	- dict
+- program aspects
+	- conditionals
+	- loops
+----------------------------
+	- user defined functions
+	- modules
+	- packages
+	- OOP in python
+----------------------------
+Function:
+	- named set of codes that does a specific task
+	- they're the basic facilitator for code reusability
+	- functions can have
+		- inputs --> arguments
+		- outputs --> print, return
+	- def is used to define functions
+	- arguments
+		- default arguments
+		- keyword arguments (kwargs)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
